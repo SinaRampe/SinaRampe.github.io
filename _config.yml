@@ -68,19 +68,6 @@ author:
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SinaRampe"
-      
-   # - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-     # url: "https://instagram.com/"
-
-footer:
-  links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sinarampe@gmail.com"
@@ -90,6 +77,20 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sina-rampe-b76aa0175/"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
+
+footer:
+  links:
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+   
+  #  - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/SinaRampe"
+   
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
