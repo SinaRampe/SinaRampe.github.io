@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Sina Rampe"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/LINKED_in-3.jpg"
+  bio    : "Data Science Trainee at Data Science Retreat."
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
