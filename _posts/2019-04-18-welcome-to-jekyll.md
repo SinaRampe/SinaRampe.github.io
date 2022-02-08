@@ -8,8 +8,8 @@ tags:
   - update
 
 toc: true
-toc_label: "Unique Title" # defautl: Content
-toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_label: # defautl: Content
+toc_icon: #"heart"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc
 
 ---
