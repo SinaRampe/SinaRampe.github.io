@@ -5,7 +5,7 @@ title: "About"
 
 <center>
 
-<a href="/assets/Sina Rampe CV.pdf" class="btn--x-large"> Open CV </a>
+<a href="/assets/Sina Rampe CV.pdf" class="btn--large">CV - deutsch</a>
 </center>
 
 
