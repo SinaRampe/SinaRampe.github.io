@@ -4,8 +4,6 @@ title: "About"
 ---
 
 <center>
-<a href="https://www.linkedin.com/in/sina-rampe-b76aa0175/" class="btn btn--info">LinkedIn</a>
-<a href="https://github.com/SinaRampe" class="btn btn--info">Github</a>
 <a href="/assets/images/Sina Rampe CV.pdf" class="btn btn--info">CV</a>
 </center>
 
@@ -17,3 +15,5 @@ I am fascinated about how the digital era is changing the roles of all participa
 On the other hand I am very curious about learning how datafication improves patient care. It's going to have a huge effect, and so I really want to understand the topic. Because I think you don't really understand things until you get your hands dirty, I am currently learning new technologies like Python and SQL, machine learning algorithms and improving my statistics skills, which gives me a lot of joy.
 
 I love to connect with pharmacists and other healthcare professionals, who are interested in interprofessional discourse, advocating for patient empowerment, or working in the area of Data Driven Healthcare.
+
+[1]:{{ site.url }}/assets/images/Sina Rampe CV.pdf
