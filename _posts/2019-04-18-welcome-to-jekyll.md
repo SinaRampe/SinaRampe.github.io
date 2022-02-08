@@ -35,21 +35,19 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-## 01 lalala
-testestesttesttesttest
+## 1 lalala
+directly after header
 
-## 02 blablub
-weffdv
-drfvdfv
-dfvdfvdf
+## 2 blablub
+after
 
-### 02.2 Why whywhy
+### 2.2 Why whywhy
 
-sefewsdffew
+space
 
 ## 03 nanana
 
-test test
+space
 
 ### 03.1 more
-cool
+no space
