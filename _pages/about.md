@@ -3,9 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-<center>
-<a href="/assets/images/Sina Rampe CV.pdf" class="btn btn--info">CV</a>
-</center>
 
 
 I am a freelance pharmacist with ten years of experience in community pharmacies. Throughout my career, I have constantly expanded my knowledge with a drive to add value for patients and better therapeutic outcomes. 
