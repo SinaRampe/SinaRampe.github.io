@@ -5,7 +5,7 @@ title: "About"
 
 <center>
 
-<a href="/assets/Sina Rampe CV.pdf" class="btn Inverse--info">CV</a>
+<a href="/assets/Sina Rampe CV.pdf" class="btn--inverse">CV</a>
 </center>
 
 I am a freelance pharmacist with ten years of experience in community pharmacies. Throughout my career, I have constantly expanded my knowledge with a drive to add value for patients and better therapeutic outcomes. 
