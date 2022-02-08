@@ -23,9 +23,8 @@ def print_hi(name):
   print(f"Hi {name}.")
 
 print_hi("my friend")
-
-prints "Hi my friend."
 ```
+prints "Hi my friend."
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
@@ -35,18 +34,16 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ## 1 lalala
-directly after header
+text
 
 ## 2 blablub
-after
+text
 
 ### 2.2 Why whywhy
-
-space
+more text
 
 ## 03 nanana
-
-space
+yeah!
 
 ### 03.1 more
-no space
+pls
