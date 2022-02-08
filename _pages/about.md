@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a freelance pharmacist with ten years of experience in community pharmacies. Throughout my career, I have constantly expanded my knowledge with a drive to add value for patients and better therapeutic outcomes. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am fascinated about how the digital era is changing the roles of all participants – patients and professionals - and the consequences of these changes for future health care. My goal in this regard is again to intervene in ways that really have an impact, hopefully making people's lives better. That's why I'm involved with Patients4Digital, a movement to make collaboration and patient empowerment a reality.
+
+On the other hand I am very curious about learning how datafication improves patient care. It's going to have a huge effect, and so I really want to understand the topic. Because I think you don't really understand things until you get your hands dirty, I am currently learning new technologies like Python and SQL, machine learning algorithms and improving my statistics skills, which gives me a lot of joy.
+
+I love to connect with pharmacists and other healthcare professionals, who are interested in interprofessional discourse, advocating for patient empowerment, or working in the area of Data Driven Healthcare.
