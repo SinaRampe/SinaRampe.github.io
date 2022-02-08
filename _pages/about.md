@@ -16,4 +16,3 @@ On the other hand I am very curious about learning how datafication improves pat
 
 I love to connect with pharmacists and other healthcare professionals, who are interested in interprofessional discourse, advocating for patient empowerment, or working in the area of Data Driven Healthcare.
 
-[1]:{{ site.url }}/assets/images/Sina Rampe CV.pdf
