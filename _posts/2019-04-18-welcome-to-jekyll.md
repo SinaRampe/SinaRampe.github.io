@@ -6,6 +6,12 @@ categories:
 tags:
   - Jekyll
   - update
+
+toc: true
+toc_label: "Unique Title" # defautl: Content
+toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_sticky: true   # enables sticky toc
+
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
