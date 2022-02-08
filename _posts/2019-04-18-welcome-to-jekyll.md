@@ -1,8 +1,6 @@
 ---
 title: "My Title"
-date: 2022-08-02"
-categories:
-  - blog
+
 tags:
   - Jekyll
   - update
