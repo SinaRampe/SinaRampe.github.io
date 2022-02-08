@@ -8,7 +8,7 @@ tags:
   - update
 
 toc: true
-toc_label: # defautl: Content
+toc_label: Label
 toc_icon: #"heart"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc
 
