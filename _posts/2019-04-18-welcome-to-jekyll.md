@@ -1,6 +1,6 @@
 ---
 title: "My Title"
-date: 2021-04-18T15:34:30-04:00
+date: 2022-08-02"
 categories:
   - blog
 tags:
