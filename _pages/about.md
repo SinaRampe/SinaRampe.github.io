@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <center>
-<a href="/assets/Sina Rampe CV.pdf" class="btn btn--large">CV - english</a>
+<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - english</a>
 <a href="/assets/Sina Rampe CV.pdf" class="btn btn--inverse">CV - deutsch</a>
 </center>
 
