@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About <a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - english</a>"
 ---
 
 
@@ -12,7 +12,7 @@ I am a freelance pharmacist with ten years of experience in community pharmacies
 On the other hand I am very curious about learning how datafication improves patient care. It's going to have a huge effect, and so I really want to understand the topic. Because I think you don't really understand things until you get your hands dirty, I am currently learning new technologies like Python and SQL, machine learning algorithms and improving my statistics skills, which gives me a lot of joy.
 
 <center>
-<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - english</a>
+
 <a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - deutsch</a>
 </center>
 
