@@ -3,14 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-<center>
-<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - english</a>
-<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - deutsch</a>
-</center>
+
 
 
 
 I am a freelance pharmacist with ten years of experience in community pharmacies. Throughout my career, I have constantly expanded my knowledge with a drive to add value for patients and better therapeutic outcomes. 
+
+<center>
+<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - english</a>
+<a href="/assets/Sina Rampe CV.pdf" class="btn btn--primary">CV - deutsch</a>
+</center>
 
 I am fascinated about how the digital era is changing the roles of all participants – patients and professionals - and the consequences of these changes for future health care. My goal in this regard is again to intervene in ways that really have an impact, hopefully making people's lives better. That's why I'm involved with Patients4Digital, a movement to make collaboration and patient empowerment a reality.
 
