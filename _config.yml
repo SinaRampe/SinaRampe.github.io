@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Sina Rampe"
   avatar : "/assets/images/LINKED_in-3.jpg"
-  bio    : "Freelance pharmacist with 10 years of experience in community pharmacies. Faszinated by programming and Data and therefore learning Python, SQL and ML. Data Science Trainee at Data Science Retreat."
+  bio    : "Freelance pharmacist with 10 years of experience in community pharmacies. Fascinated by programming and Data and therefore learning Python, SQL and ML. Data Science Trainee at Data Science Retreat."
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
