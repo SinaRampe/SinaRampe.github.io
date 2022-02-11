@@ -108,5 +108,3 @@ Or you could skip the capture and stick with straight HTML.
   <p>A basic message.</p>
 </div>
 
-### 5 more
-pls
