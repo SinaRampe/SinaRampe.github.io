@@ -40,7 +40,7 @@ This theme supports **link posts**. To use, just add `link: http://url-you-want-
 
 Some [link](#) can also be shown.
 
-### 3 Quotes
+## 3 Quotes
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
