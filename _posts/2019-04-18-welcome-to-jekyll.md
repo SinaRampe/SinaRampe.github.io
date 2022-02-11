@@ -1,21 +1,21 @@
 ---
-title: "My Title"
-date: 2021-04-18T15:34:30-04:00
-last_modified_at: 2022-02-08T16:20:02-05:00
+title: "Welcome to my website"
+date: 2022-02-11T15:34:30-04:00
+last_modified_at: 2022-02-11T16:20:02-05:00
 tags:
   - Jekyll
   - update
 
 toc: true
-toc_label: Label
-toc_icon: #"heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_label: Welcome!
+toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc
 
 ---
 
 
 
-Jekyll also offers powerful support for code snippets:
+I have decided to use a Jekyll website / blog. You can easily embed code.  
 
 ```python
 def print_hi(name):
