@@ -1,10 +1,10 @@
 ---
-title: "Welcome!"
-date: 2022-02-10T15:34:30-04:00
-last_modified_at: 2022-02-11T10:34:30-04:00
+title: "Welcome to my website"
+date: 2022-02-11T15:34:30-04:00
+last_modified_at: 2022-02-11T15:34:30-04:00
 tags:
   - Jekyll
-  - update
+  - Welcome
 
 toc: true
 toc_label: Welcome!
@@ -18,8 +18,7 @@ I have decided to use a Jekyll website / blog. This is a kind of a summary of us
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
 
 
 ## 1 Embed code
@@ -109,5 +108,5 @@ Or you could skip the capture and stick with straight HTML.
   <p>A basic message.</p>
 </div>
 
-### 03.1 more
+### 5 more
 pls
