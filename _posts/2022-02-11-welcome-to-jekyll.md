@@ -34,6 +34,10 @@ print_hi("my friend")
 ```
 prints "Hi my friend."
 
+<script src="https://anvil.works/embed.js" async></script>
+<iframe style="width:100%;" data-anvil-embed src="https://RDESE2Q5D4PFBCRI.anvil.app/25AGY3SOP7N5HYDEQ4SXIFWB"></iframe>
+
+
 ## 2 Links
 
 This theme supports **link posts**. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
